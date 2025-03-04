@@ -1,2 +1,10 @@
 __pycache__
 venv
+blog-env
+blog/__pycache__
+blog/repository/__pycache__
+blog/routers/__pycache__
+.DS_Store
+.vscode
+.gitignore
+/blog/__pycache__
